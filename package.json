@@ -1,7 +1,7 @@
 {
-  "name": "VaxeTurkiye",
-  "version": "0.0.1",
-  "description": "VaxeTurkiye",
+  "name": "PlutoBot",
+  "version": "1.9.1",
+  "description": "PlutoBot",
   "main": "bot.js",
   "dependencies": {
     "cat-names": "^1.0.2",
@@ -35,7 +35,7 @@
     "type": "",
     "url": ""
   },
-  "author": "xChairs",
+  "author": "EasyMaxx'",
   "license": "MIT",
   "bugs": {
     "url": ""
